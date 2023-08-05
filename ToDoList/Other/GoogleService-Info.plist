@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>584354646893-97r9jis8pg11t6qg94pbrebf3kd7njft.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.584354646893-97r9jis8pg11t6qg94pbrebf3kd7njft</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQsp_5NpavUqlKQxylwVZbZTW7lJx5RfY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>584354646893</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>alexa.ToDoList</string>
+	<key>PROJECT_ID</key>
+	<string>swiftuitodolist-ca24a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftuitodolist-ca24a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:584354646893:ios:11ef9d23b65407cbcb6864</string>
+</dict>
+</plist>
